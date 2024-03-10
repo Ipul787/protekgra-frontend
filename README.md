@@ -22,4 +22,4 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Learn More
 
-This is a repository containing project files for the Lecturer Monitoring System for the Informatics Engineering Department of the State Polytechnic of Malang. 
+This is a repository containing project files for the Lecturer Monitoring System for the Informatics Engineering Department of the State Polytechnic of Malang.
